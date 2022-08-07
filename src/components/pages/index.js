@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './News'
+export * from './SingleNews'
+export * from './Contact'
+export * from './ContactSummary'
