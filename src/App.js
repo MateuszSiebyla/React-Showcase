@@ -1,7 +1,13 @@
 import styled from 'styled-components'
 import { Routes, Route } from 'react-router-dom'
 import { Header } from './components/layout'
-import { Home, News, SingleNews, Contact, ContactSummary } from './components/pages'
+import {
+  Home,
+  News,
+  SingleNews,
+  Contact,
+  ContactSummary,
+} from './components/pages'
 
 const AppWrapper = styled.div`
   font-family: sans-serif;

@@ -3,6 +3,6 @@ import contactFormSlice from './contactFormSlice'
 
 export const store = configureStore({
   reducer: {
-    contactForm: contactFormSlice
+    contactForm: contactFormSlice,
   },
 })
